@@ -7,14 +7,14 @@
 
 ## Auteurs
 
->- HAMOUI Antoine
+> HAMOUI Antoine
 
 ## Techniques utilisées:
-- Pages de rédaction et de conception de langage: HTML5 + CSS3 + JavaScript
-- Langage de programmation: PHP 5.6
-- Base de données: MySQL 5.6
+>- Front-end: HTML5 + CSS3 + JavaScript
+>- Langage de programmation: PHP 5.6
+>- Base de données: MySQL 5.6
 
 ## API utilisées:
-- PHPMailer - Une classe complète de création et de transfert email pour PHP
-- FPDF - A PHP class permet de générer des fichiers PDF avec PHP
-- twitter-share-button
+>- PHPMailer - Une classe complète de création et de transfert email pour PHP
+>- FPDF - A PHP class permet de générer des fichiers PDF avec PHP
+>- twitter-share-button

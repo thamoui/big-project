@@ -15,6 +15,6 @@
 >- Base de données: MySQL 5.6
 
 ## API utilisées:
->- PHPMailer - Une classe complète de création et de transfert email pour PHP
+>- PHPMailer - Une classe complète de création et de transfert email avec PHP
 >- FPDF - A PHP class permet de générer des fichiers PDF avec PHP
 >- twitter-share-button
